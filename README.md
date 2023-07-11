@@ -1,3 +1,4 @@
+# Python Notepad using Tkinter Library
 The provided code is a simple implementation of a text editor using the Tkinter library in Python. It allows the user to perform basic operations such as opening, saving, and clearing a text file. Here's a summary of how the code works:
 
 1. Importing Required Modules:
