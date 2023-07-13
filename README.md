@@ -21,4 +21,5 @@ The provided code is a simple implementation of a text editor using the Tkinter 
 
 Overall, the code creates a basic text editor interface using Tkinter, allowing users to open, save, clear, and edit text files in a simple graphical window.
 
-#Google Colab does not support Tkinter because Tkinter is a graphical user interface (GUI) library that requires a display to run. Google Colab is a cloud-based service that runs in a web browser, and web browsers do not have displays. So, it is recommended to use the given code on platforms such as VScode.
+## Prerequisite
+Google Colab does not support Tkinter because Tkinter is a graphical user interface (GUI) library that requires a display to run. Google Colab is a cloud-based service that runs in a web browser, and web browsers do not have displays. So, it is recommended to use the given code on platforms such as VScode, CodeBlocks, etc.
